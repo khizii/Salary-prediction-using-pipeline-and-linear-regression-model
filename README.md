@@ -1,0 +1,1 @@
+# Salary-prediction-using-pipeline-and-linear-regression-model![salaryyy](https://github.com/khizii/Salary-prediction-using-pipeline-and-linear-regression-model/assets/137616658/1fc4d4d8-faf6-4bdf-ab99-a46f2ea15913)
